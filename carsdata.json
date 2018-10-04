@@ -1,7 +1,6 @@
 {
- "owner" : {
-        "image1": "https://github.com/Ajulay/Reactive/blob/master/images/IMG.jpg?raw=true",
-        "image2": "https://github.com/Ajulay/Reactive/blob/master/images/IMG16.jpg?raw=true"
-    }
- 
+  "owner": [
+    "https://github.com/Ajulay/Reactive/blob/master/images/IMG.jpg?raw=true",
+    "https://github.com/Ajulay/Reactive/blob/master/images/IMG16.jpg?raw=true"
+  ]
 }
