@@ -1,7 +1,0 @@
-{
- "owner" : {
-        "image1": "online auction site",
-        "image2": "../navigations/images/corporate/ebay.svg"
-    }
- 
-}
