@@ -1,6 +1,14 @@
 {
   "owner": [
     "https://github.com/Ajulay/Reactive/blob/master/images/IMG.jpg?raw=true",
-    "https://github.com/Ajulay/Reactive/blob/master/images/IMG16.jpg?raw=true"
-  ]
+    "https://github.com/Ajulay/Reactive/blob/master/images/IMG16.jpg?raw=true",
+    "https://github.com/Ajulay/Reactive/blob/master/images/wheel1.jpg?raw=true",
+    "https://github.com/Ajulay/Reactive/blob/master/images/wheel2.jpg?raw=true",
+      "https://github.com/Ajulay/Reactive/blob/master/images/auto1.jpg?raw=true",
+      "https://github.com/Ajulay/Reactive/blob/master/images/auto2.jpg?raw=true",
+  ],
+ "overal": [
+      "https://github.com/Ajulay/Reactive/blob/master/images/sightseen.png?raw=true",
+      "https://github.com/Ajulay/Reactive/blob/master/images/MyMileage.png?raw=true",
+ ]     
 }
